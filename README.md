@@ -1,2 +1,3 @@
-# dio_linux_zero_iac_proj02
-DIO boot-camp "Linux do Zero" Projeto 02
+# DIO boot-camp "Linux do Zero" IaC Project02
+
+OK, vamos ao próximo...
